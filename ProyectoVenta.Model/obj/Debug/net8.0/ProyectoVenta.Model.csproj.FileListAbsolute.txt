@@ -1,0 +1,11 @@
+D:\upds\Inteligencia Artificial\ProyectoVenta.Model\bin\Debug\net8.0\ProyectoVenta.Model.deps.json
+D:\upds\Inteligencia Artificial\ProyectoVenta.Model\bin\Debug\net8.0\ProyectoVenta.Model.dll
+D:\upds\Inteligencia Artificial\ProyectoVenta.Model\bin\Debug\net8.0\ProyectoVenta.Model.pdb
+D:\upds\Inteligencia Artificial\ProyectoVenta.Model\obj\Debug\net8.0\ProyectoVenta.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\upds\Inteligencia Artificial\ProyectoVenta.Model\obj\Debug\net8.0\ProyectoVenta.Model.AssemblyInfoInputs.cache
+D:\upds\Inteligencia Artificial\ProyectoVenta.Model\obj\Debug\net8.0\ProyectoVenta.Model.AssemblyInfo.cs
+D:\upds\Inteligencia Artificial\ProyectoVenta.Model\obj\Debug\net8.0\ProyectoVenta.Model.csproj.CoreCompileInputs.cache
+D:\upds\Inteligencia Artificial\ProyectoVenta.Model\obj\Debug\net8.0\ProyectoVenta.Model.dll
+D:\upds\Inteligencia Artificial\ProyectoVenta.Model\obj\Debug\net8.0\refint\ProyectoVenta.Model.dll
+D:\upds\Inteligencia Artificial\ProyectoVenta.Model\obj\Debug\net8.0\ProyectoVenta.Model.pdb
+D:\upds\Inteligencia Artificial\ProyectoVenta.Model\obj\Debug\net8.0\ref\ProyectoVenta.Model.dll

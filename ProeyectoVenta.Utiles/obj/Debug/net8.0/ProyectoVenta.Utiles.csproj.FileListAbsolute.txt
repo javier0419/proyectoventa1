@@ -1,0 +1,11 @@
+D:\upds\Inteligencia Artificial\ProeyectoVenta.Utiles\bin\Debug\net8.0\ProyectoVenta.Utiles.deps.json
+D:\upds\Inteligencia Artificial\ProeyectoVenta.Utiles\bin\Debug\net8.0\ProyectoVenta.Utiles.dll
+D:\upds\Inteligencia Artificial\ProeyectoVenta.Utiles\bin\Debug\net8.0\ProyectoVenta.Utiles.pdb
+D:\upds\Inteligencia Artificial\ProeyectoVenta.Utiles\obj\Debug\net8.0\ProyectoVenta.Utiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\upds\Inteligencia Artificial\ProeyectoVenta.Utiles\obj\Debug\net8.0\ProyectoVenta.Utiles.AssemblyInfoInputs.cache
+D:\upds\Inteligencia Artificial\ProeyectoVenta.Utiles\obj\Debug\net8.0\ProyectoVenta.Utiles.AssemblyInfo.cs
+D:\upds\Inteligencia Artificial\ProeyectoVenta.Utiles\obj\Debug\net8.0\ProyectoVenta.Utiles.csproj.CoreCompileInputs.cache
+D:\upds\Inteligencia Artificial\ProeyectoVenta.Utiles\obj\Debug\net8.0\ProyectoVenta.Utiles.dll
+D:\upds\Inteligencia Artificial\ProeyectoVenta.Utiles\obj\Debug\net8.0\refint\ProyectoVenta.Utiles.dll
+D:\upds\Inteligencia Artificial\ProeyectoVenta.Utiles\obj\Debug\net8.0\ProyectoVenta.Utiles.pdb
+D:\upds\Inteligencia Artificial\ProeyectoVenta.Utiles\obj\Debug\net8.0\ref\ProyectoVenta.Utiles.dll

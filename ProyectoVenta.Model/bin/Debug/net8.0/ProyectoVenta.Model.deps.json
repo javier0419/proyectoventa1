@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProyectoVenta.Model/1.0.0": {
+        "runtime": {
+          "ProyectoVenta.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProyectoVenta.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

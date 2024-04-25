@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\upds\\Inteligencia Artificial\\ProyectoVenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C9EB57-1124-43AD-AED4-843FD74B12A2}|ProyectoVenta.csproj|d:\\upds\\inteligencia artificial\\proyectoventa\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F4C9EB57-1124-43AD-AED4-843FD74B12A2}|ProyectoVenta.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A465331E-DE8B-4DB5-86DA-4AEBA6CCEA57}|..\\ProyectoVenta.Model\\ProyectoVenta.Model.csproj|d:\\upds\\inteligencia artificial\\proyectoventa.model\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A465331E-DE8B-4DB5-86DA-4AEBA6CCEA57}|..\\ProyectoVenta.Model\\ProyectoVenta.Model.csproj|d:\\upds\\inteligencia artificial\\proyectoventa.model\\oficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A465331E-DE8B-4DB5-86DA-4AEBA6CCEA57}|..\\ProyectoVenta.Model\\ProyectoVenta.Model.csproj|d:\\upds\\inteligencia artificial\\proyectoventa.model\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A465331E-DE8B-4DB5-86DA-4AEBA6CCEA57}|..\\ProyectoVenta.Model\\ProyectoVenta.Model.csproj|d:\\upds\\inteligencia artificial\\proyectoventa.model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A465331E-DE8B-4DB5-86DA-4AEBA6CCEA57}|..\\ProyectoVenta.Model\\ProyectoVenta.Model.csproj|d:\\upds\\inteligencia artificial\\proyectoventa.model\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A84E814-7E75-4813-9A34-85F9499CB80A}|..\\ProyecctoVenta.Data\\ProyectoVenta.Data.csproj|d:\\upds\\inteligencia artificial\\proyecctoventa.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A84E814-7E75-4813-9A34-85F9499CB80A}|..\\ProyecctoVenta.Data\\ProyectoVenta.Data.csproj|d:\\upds\\inteligencia artificial\\proyecctoventa.data\\repository\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A84E814-7E75-4813-9A34-85F9499CB80A}|..\\ProyecctoVenta.Data\\ProyectoVenta.Data.csproj|d:\\upds\\inteligencia artificial\\proyecctoventa.data\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A84E814-7E75-4813-9A34-85F9499CB80A}|..\\ProyecctoVenta.Data\\ProyectoVenta.Data.csproj|d:\\upds\\inteligencia artificial\\proyecctoventa.data\\repository\\irepository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A84E814-7E75-4813-9A34-85F9499CB80A}|..\\ProyecctoVenta.Data\\ProyectoVenta.Data.csproj|d:\\upds\\inteligencia artificial\\proyecctoventa.data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A84E814-7E75-4813-9A34-85F9499CB80A}|..\\ProyecctoVenta.Data\\ProyectoVenta.Data.csproj|d:\\upds\\inteligencia artificial\\proyecctoventa.data\\repository\\oficinarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A84E814-7E75-4813-9A34-85F9499CB80A}|..\\ProyecctoVenta.Data\\ProyectoVenta.Data.csproj|d:\\upds\\inteligencia artificial\\proyecctoventa.data\\repository\\contenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A84E814-7E75-4813-9A34-85F9499CB80A}|..\\ProyecctoVenta.Data\\ProyectoVenta.Data.csproj|d:\\upds\\inteligencia artificial\\proyecctoventa.data\\repository\\irepository\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A84E814-7E75-4813-9A34-85F9499CB80A}|..\\ProyecctoVenta.Data\\ProyectoVenta.Data.csproj|d:\\upds\\inteligencia artificial\\proyecctoventa.data\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A84E814-7E75-4813-9A34-85F9499CB80A}|..\\ProyecctoVenta.Data\\ProyectoVenta.Data.csproj|d:\\upds\\inteligencia artificial\\proyecctoventa.data\\repository\\irepository\\ioficinarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A84E814-7E75-4813-9A34-85F9499CB80A}|..\\ProyecctoVenta.Data\\ProyectoVenta.Data.csproj|d:\\upds\\inteligencia artificial\\proyecctoventa.data\\repository\\irepository\\icontenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\upds\\Inteligencia Artificial\\ProyectoVenta\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\upds\\Inteligencia Artificial\\ProyectoVenta\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-25T16:11:44.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "D:\\upds\\Inteligencia Artificial\\ProyectoVenta.Model\\Slider.cs",
+              "RelativeDocumentMoniker": "..\\ProyectoVenta.Model\\Slider.cs",
+              "ToolTip": "D:\\upds\\Inteligencia Artificial\\ProyectoVenta.Model\\Slider.cs",
+              "RelativeToolTip": "..\\ProyectoVenta.Model\\Slider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:08:58.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Oficina.cs",
+              "DocumentMoniker": "D:\\upds\\Inteligencia Artificial\\ProyectoVenta.Model\\Oficina.cs",
+              "RelativeDocumentMoniker": "..\\ProyectoVenta.Model\\Oficina.cs",
+              "ToolTip": "D:\\upds\\Inteligencia Artificial\\ProyectoVenta.Model\\Oficina.cs",
+              "RelativeToolTip": "..\\ProyectoVenta.Model\\Oficina.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:08:57.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\upds\\Inteligencia Artificial\\ProyectoVenta.Model\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ProyectoVenta.Model\\ErrorViewModel.cs",
+              "ToolTip": "D:\\upds\\Inteligencia Artificial\\ProyectoVenta.Model\\ErrorViewModel.cs",
+              "RelativeToolTip": "..\\ProyectoVenta.Model\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:08:57.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\upds\\Inteligencia Artificial\\ProyectoVenta.Model\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\ProyectoVenta.Model\\ApplicationUser.cs",
+              "ToolTip": "D:\\upds\\Inteligencia Artificial\\ProyectoVenta.Model\\ApplicationUser.cs",
+              "RelativeToolTip": "..\\ProyectoVenta.Model\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:08:55.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "D:\\upds\\Inteligencia Artificial\\ProyectoVenta.Model\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "..\\ProyectoVenta.Model\\ViewModels\\HomeVM.cs",
+              "ToolTip": "D:\\upds\\Inteligencia Artificial\\ProyectoVenta.Model\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "..\\ProyectoVenta.Model\\ViewModels\\HomeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:08:54.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\upds\\Inteligencia Artificial\\ProyecctoVenta.Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\ProyecctoVenta.Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\upds\\Inteligencia Artificial\\ProyecctoVenta.Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\ProyecctoVenta.Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:08:44.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\upds\\Inteligencia Artificial\\ProyecctoVenta.Data\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\ProyecctoVenta.Data\\Repository\\Repository.cs",
+              "ToolTip": "D:\\upds\\Inteligencia Artificial\\ProyecctoVenta.Data\\Repository\\Repository.cs",
+              "RelativeToolTip": "..\\ProyecctoVenta.Data\\Repository\\Repository.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:07:28.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "D:\\upds\\Inteligencia Artificial\\ProyecctoVenta.Data\\Repository\\IRepository\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "..\\ProyecctoVenta.Data\\Repository\\IRepository\\IUsuarioRepository.cs",
+              "ToolTip": "D:\\upds\\Inteligencia Artificial\\ProyecctoVenta.Data\\Repository\\IRepository\\IUsuarioRepository.cs",
+              "RelativeToolTip": "..\\ProyecctoVenta.Data\\Repository\\IRepository\\IUsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:07:09.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContenedorTrabajo.cs",
+              "DocumentMoniker": "D:\\upds\\Inteligencia Artificial\\ProyecctoVenta.Data\\Repository\\ContenedorTrabajo.cs",
+              "RelativeDocumentMoniker": "..\\ProyecctoVenta.Data\\Repository\\ContenedorTrabajo.cs",
+              "ToolTip": "D:\\upds\\Inteligencia Artificial\\ProyecctoVenta.Data\\Repository\\ContenedorTrabajo.cs",
+              "RelativeToolTip": "..\\ProyecctoVenta.Data\\Repository\\ContenedorTrabajo.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:02:54.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OficinaRepository.cs",
+              "DocumentMoniker": "D:\\upds\\Inteligencia Artificial\\ProyecctoVenta.Data\\Repository\\OficinaRepository.cs",
+              "RelativeDocumentMoniker": "..\\ProyecctoVenta.Data\\Repository\\OficinaRepository.cs",
+              "ToolTip": "D:\\upds\\Inteligencia Artificial\\ProyecctoVenta.Data\\Repository\\OficinaRepository.cs",
+              "RelativeToolTip": "..\\ProyecctoVenta.Data\\Repository\\OficinaRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:02:40.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "D:\\upds\\Inteligencia Artificial\\ProyecctoVenta.Data\\Repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "..\\ProyecctoVenta.Data\\Repository\\UsuarioRepository.cs",
+              "ToolTip": "D:\\upds\\Inteligencia Artificial\\ProyecctoVenta.Data\\Repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "..\\ProyecctoVenta.Data\\Repository\\UsuarioRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:46:57.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SliderRepository.cs",
+              "DocumentMoniker": "D:\\upds\\Inteligencia Artificial\\ProyecctoVenta.Data\\Repository\\SliderRepository.cs",
+              "RelativeDocumentMoniker": "..\\ProyecctoVenta.Data\\Repository\\SliderRepository.cs",
+              "ToolTip": "D:\\upds\\Inteligencia Artificial\\ProyecctoVenta.Data\\Repository\\SliderRepository.cs",
+              "RelativeToolTip": "..\\ProyecctoVenta.Data\\Repository\\SliderRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:02:21.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ISliderRepository.cs",
+              "DocumentMoniker": "D:\\upds\\Inteligencia Artificial\\ProyecctoVenta.Data\\Repository\\IRepository\\ISliderRepository.cs",
+              "RelativeDocumentMoniker": "..\\ProyecctoVenta.Data\\Repository\\IRepository\\ISliderRepository.cs",
+              "ToolTip": "D:\\upds\\Inteligencia Artificial\\ProyecctoVenta.Data\\Repository\\IRepository\\ISliderRepository.cs",
+              "RelativeToolTip": "..\\ProyecctoVenta.Data\\Repository\\IRepository\\ISliderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:05:54.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\upds\\Inteligencia Artificial\\ProyecctoVenta.Data\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\ProyecctoVenta.Data\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "D:\\upds\\Inteligencia Artificial\\ProyecctoVenta.Data\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "..\\ProyecctoVenta.Data\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:05:50.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IOficinaRepository.cs",
+              "DocumentMoniker": "D:\\upds\\Inteligencia Artificial\\ProyecctoVenta.Data\\Repository\\IRepository\\IOficinaRepository.cs",
+              "RelativeDocumentMoniker": "..\\ProyecctoVenta.Data\\Repository\\IRepository\\IOficinaRepository.cs",
+              "ToolTip": "D:\\upds\\Inteligencia Artificial\\ProyecctoVenta.Data\\Repository\\IRepository\\IOficinaRepository.cs",
+              "RelativeToolTip": "..\\ProyecctoVenta.Data\\Repository\\IRepository\\IOficinaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:05:21.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IContenedorTrabajo.cs",
+              "DocumentMoniker": "D:\\upds\\Inteligencia Artificial\\ProyecctoVenta.Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
+              "RelativeDocumentMoniker": "..\\ProyecctoVenta.Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
+              "ToolTip": "D:\\upds\\Inteligencia Artificial\\ProyecctoVenta.Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
+              "RelativeToolTip": "..\\ProyecctoVenta.Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:03:40.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
